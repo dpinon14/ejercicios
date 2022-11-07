@@ -13,8 +13,7 @@ public class ProyectoFinal {
     public static void main(String[] args) {
      
         int p, opc = 0, contm=0,conta=0;
-        int enec, febc, marc, abrc, mayc, junc, julc, agoc, sepc, octc, novc, dicc = 0;
-
+        int enec =0 , febc =0 , marc =0 , abrc =0 , mayc =0 , junc=0 , julc=0 , agoc=0 , sepc=0 , octc=0 , novc=0 , dicc = 0;
       
       String usuario,contraseña, op,mes,año,us;
         JOptionPane.showMessageDialog(null,"PROYECTO FINAL\n Fundamentos de programacion\n");
