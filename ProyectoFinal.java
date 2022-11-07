@@ -161,6 +161,7 @@ public class ProyectoFinal {
         
      
         } while(opc!=4);
+            JOptionPane.showMessageDialog(null, "Seleccionaste salir ");  
         
         }
         
